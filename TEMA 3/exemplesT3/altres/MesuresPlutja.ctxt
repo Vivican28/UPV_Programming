@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MesuresPlutja
+comment0.text=\r\n\ Classe\ MesuresPlutja\:\ mostra\ per\ pantalla\ les\ mesures\ de\ plutja\r\n\ llegides\ des\ de\ teclat.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=MesuresPlutja()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=t
+comment3.target=double[]\ recollirDadesPlutja(java.util.Scanner)
+comment3.text=\ \r\n\ Lectura\ de\ les\ mesures\ i\ construccio\ de\ l'array.\r\n\ @param\ t\ Scanner\ per\ fer\ la\ lectura.\r\n\ @return\ double[],\ array\ de\ reals\ amb\ les\ mesures\ de\ plutja.\r\n
+numComments=4

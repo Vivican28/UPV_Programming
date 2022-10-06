@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InfoFile
+comment0.text=\r\n\ \ Mostra\ informacio\ basica\ sobre\ un\ fitxer\ (nom,\ directori\ i\ tamany\ en\ kbytes).\r\n\ \ S'executa\ invocant\ main\ amb\ un\ parametre\ que\ es\ la\ ruta\ relativa\ del\ fitxer.\r\n\ \ Per\ exemple,\ el\ nom\ relatiu\ d'aquest\ fitxer\ es\ fitxersText/InfoFile.java.\r\n\ \ @author\ PRG\r\n\ \ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=InfoFile()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

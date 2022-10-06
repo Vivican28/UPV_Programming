@@ -1,0 +1,64 @@
+#BlueJ class context
+comment0.target=Grup
+comment0.text=\r\n\ Classe\ Grup\:\ representa\ els\ alumnes\ d'un\ grup.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=Grup()
+comment1.text=Crea\ un\ Grup\ amb\ 0\ alumnes.
+comment10.params=pos
+comment10.target=int\ comptarMH(int)
+comment10.text=\ Recorregut\ recursiu\ descendent\r\nPRECONDICIO\:\ -1\ <\=\ pos\ <\ numAl
+comment11.params=
+comment11.target=int\ primeraMH()
+comment11.text=\ Torna\ la\ posicio\ del\ primer\ alumne\ amb\ MH\ o\ -1\ si\ no\ hi\ ha\ cap\ MH.\r\n\ \ @return\ int.\ \ \r\n
+comment12.params=pos
+comment12.target=int\ primeraMH(int)
+comment12.text=\ Recorregut\ recursiu\ descendent\ -\ Primera\ versio\r\nPRECONDICIO\:\ -1\ <\=\ pos\ <\ numAl
+comment13.params=pos\ primMH
+comment13.target=int\ primeraMH(int,\ int)
+comment13.text=\ Recorregut\ recursiu\ descendent\ -\ Segona\ versio\r\nPRECONDICIO\:\ -1\ <\=\ pos\ <\ numAl\ i\ -1\ <\=\ primMH\ <\ numAl\ AAAAAAAAAAAAAAAAAA
+comment14.params=pos
+comment14.target=int\ primeraMHC(int)
+comment14.text=\ Cerca\ recursiva\ ascendent\r\nPRECONDICIO\:\ 0\ <\=\ pos\ <\=\ numAl
+comment15.params=
+comment15.target=int\ darreraMH()
+comment15.text=\ Torna\ la\ posicio\ del\ darrer\ alumne\ amb\ MH\ o\ -1\ si\ no\ hi\ ha\ cap\ MH.\r\n\ \ @return\ int.\ \ \r\n
+comment16.params=pos
+comment16.target=int\ darreraMH(int)
+comment16.text=\ Cerca\ recursiva\ descendent\r\nPRECONDICIO\:\ -1\ <\=\ pos\ <\ numAl
+comment17.params=
+comment17.target=boolean\ ordreAsc()
+comment17.text=\ Comprova\ si\ els\ alumnes\ estan\ ordenats\ ascendentment\ \r\n\ \ per\ nota\ (de\ menor\ a\ major).\r\n\ \ @return\ boolean.\r\n
+comment18.params=pos
+comment18.target=boolean\ ordreAsc(int)
+comment18.text=\ Cerca\ recursiva\ ascendent\r\nPRECONDICIO\:\ 0\ <\=\ pos\ <\ numAl
+comment19.params=nom
+comment19.target=int\ encNom(java.lang.String)
+comment19.text=\ Torna\ la\ posicio\ d'un\ alumne\ de\ nom\ donat,\ sabent\ que\ els\ alumnes\ \r\n\ \ estan\ ordenats\ per\ nom\ (lexicograficament),\ o\ -1\ si\ no\ el\ troba.\r\n\ \ @param\ nom\ String.\r\n\ \ @return\ int.\r\n
+comment2.params=a
+comment2.target=void\ afegir(Alumne)
+comment2.text=\ Donat\ un\ alumne,\ si\ cap,\ l'afegeix\ al\ grup.\r\n\ \ @param\ a\ Alumne\ a\ afegir.\r\n
+comment20.params=nom\ ini\ fi
+comment20.target=int\ encNom(java.lang.String,\ int,\ int)
+comment20.text=\ Cerca\ binaria\ recursiva\r\nPRECONDICIO\:\ 0\ <\=\ ini\ <\=\ numAl\ i\ -1\ <\=\ fi\ <\ numAl
+comment3.params=a
+comment3.target=int\ cercar(Alumne)
+comment3.text=\ Torna\ la\ posicio\ d'un\ alumne\ donat\ o\ -1\ si\ no\ el\ troba.\r\n\ \ @return\ int.\ \ \r\n
+comment4.params=a
+comment4.target=boolean\ eliminar(Alumne)
+comment4.text=\ Donat\ un\ alumne,\ si\ existeix,\ l'elimina\ del\ grup.\r\n\ \ @param\ a\ Alumne\ a\ eliminar.\r\n\ \ @return\ boolean.\r\n
+comment5.params=
+comment5.target=void\ mostrarAlumnes()
+comment5.text=Mostra\ per\ pantalla\ la\ informacio\ de\ tots\ els\ alumnes.
+comment6.params=pos
+comment6.target=void\ mostrarAlumnes(int)
+comment6.text=\ Recorregut\ recursiu\ ascendent\r\nPRECONDICIO\:\ 0\ <\=\ pos\ <\=\ numAl
+comment7.params=
+comment7.target=double\ notaMinima()
+comment7.text=\ Torna\ la\ nota\ minima.\r\n\ \ @return\ double.\ \ \r\n
+comment8.params=pos
+comment8.target=double\ notaMinima(int)
+comment8.text=\ Recorregut\ recursiu\ ascendent\r\nPRECONDICIO\:\ 0\ <\ numAl\ i\ 0\ <\=\ pos\ <\ numAl\ \ AAAAAAAAAAAAAAAAAAAA
+comment9.params=
+comment9.target=int\ comptarMH()
+comment9.text=\ Compta\ el\ nombre\ de\ MH.\ \r\n\ \ @return\ int.\ \r\n
+numComments=21

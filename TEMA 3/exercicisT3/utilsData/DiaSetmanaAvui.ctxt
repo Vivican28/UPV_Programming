@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiaSetmanaAvui
+comment0.text=\ \r\n\ \ Classe\ DiaSetmanaAvui\:\ mostra\ per\ pantalla\ la\ data\ d'avui\ \r\n\ \ incloent\ el\ dia\ de\ la\ setmana,\ amb\ el\ format\:\ \ \r\n\ \ dijous,\ 28\ de\ febrer\ 2019\r\n\ \ \r\n\ \ @author\ PRG\ \r\n\ \ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=DiaSetmanaAvui()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

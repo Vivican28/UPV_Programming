@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=UnableToTransferException
+comment0.text=\r\n\ Classe\ UnableToTransferException\ -\ excepcio\ llan\u00E7ada\ per\ \r\n\ CopyViaFTP\ quan\ no\ es\ pot\ fer\ la\ transferencia.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=UnableToTransferException()
+comment1.text=Crea\ una\ excepcio\ UnableToTransferException\ sense\ cap\ missatge.
+comment2.params=msg
+comment2.target=UnableToTransferException(java.lang.String)
+comment2.text=\ Crea\ una\ excepcio\ UnableToTransferException\ amb\ el\ missatge\ especificat.\ \r\n\ \ @param\ msg\ String,\ el\ missatge.\ \ \r\n
+numComments=3

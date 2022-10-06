@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Professor
+comment0.text=\r\n\ Classe\ Professor\:\ classe\ tipus\ de\ dades\ per\ representar\ un\ professor\r\n\ amb\ el\ seu\ nom,\ el\ seu\ dni\ i\ el\ departament\ al\ que\ pertany.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=n\ d\ dpt
+comment1.target=Professor(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Crea\ un\ objecte\ Professor\ amb\ nom,\ dni\ \r\n\ i\ departament\ donats.\r\n\ @param\ n\ String\ que\ representa\ el\ nom\ del\ professor.\r\n\ @param\ d\ int\ que\ representa\ el\ dni\ del\ professor.\r\n\ @param\ dpt\ String\ que\ representa\ el\ departament\ del\ professor.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDepartament()
+comment2.text=\r\n\ Torna\ el\ departament\ del\ professor.\r\n\ @return\ String,\ departament.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ del\ professor.\r\n\ @return\ String,\ amb\ el\ nom,\ el\ dni\ i\ el\ departament.\r\n
+numComments=4

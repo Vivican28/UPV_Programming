@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InvertirCua
+comment0.text=\ \r\n\ \ Programa\ que\ crea\ una\ cua\ amb\ els\ 10\ primers\ enters\ parells\ i\ la\ inverteix.\r\n\ \ \r\n\ \ @author\ PRG\r\n\ \ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=InvertirCua()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=q
+comment3.target=void\ invertRecur(linear.QueueIntLinked)
+comment3.text=m\u00E8tode\ recursiu\ que\ inverteix\ la\ cua\ q
+comment4.params=q
+comment4.target=void\ invertIter(linear.QueueIntLinked)
+comment4.text=\ m\u00E8tode\ iteratiu\ que\ inverteix\ la\ cua\ q\ \r\nfent\ \u00FAs\ d'una\ pila\ auxiliar
+numComments=5

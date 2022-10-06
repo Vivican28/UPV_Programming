@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Contacte
+comment0.text=\r\n\ Classe\ Contacte\:\ representa\ un\ contacte\ (basic)\ d'una\ agenda\ mitjan\u00E7ant\ dos\r\n\ atributs\ de\ tipus\ String\:\ el\ que\ representa\ el\ nom\ del\ contacte,\ String\ nom,\r\n\ i\ el\ que\ representa\ el\ telefon\ associat\ a\ aquest\ nom,\ String\ telefon.\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=n\ t
+comment1.target=Contacte(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Crea\ un\ Contacte\ a\ partir\ d'un\ nom\ i\ un\ telefon.\ \r\n\ @param\ nom\ String\ que\ representa\ un\ nom.\r\n\ @param\ telefon\ String\ que\ representa\ un\ telefon.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment2.text=\r\n\ Torna\ el\ nom.\r\n\ @return\ String,\ nom.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTelefon()
+comment3.text=\r\n\ Torna\ el\ telefon.\r\n\ @return\ String,\ telefon.\r\n
+comment4.params=nouNom
+comment4.target=void\ setNom(java.lang.String)
+comment4.text=\r\n\ Canvia\ el\ nom.\r\n\ @param\ nouNom\ String\ que\ representa\ el\ nou\ nom.\r\n
+comment5.params=nouTelefon
+comment5.target=void\ setTelefon(java.lang.String)
+comment5.text=\r\n\ Canvia\ el\ telefon.\r\n\ @param\ nouTelefon\ String\ que\ representa\ el\ nou\ telefon.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Sobreescriptura\ del\ metode\ toString\ de\ Object.\r\n\ @return\ String,\ informacio\ del\ Contacte\ actual.\r\n
+numComments=7

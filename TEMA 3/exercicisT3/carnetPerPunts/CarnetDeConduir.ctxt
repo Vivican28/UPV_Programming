@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CarnetDeConduir
+comment0.text=\r\n\ Classe\ CarnetDeConduir\:\ representa\ un\ carnet\ de\ conduir\ \r\n\ amb\ un\ cr\u00E8dit\ inicial\ de\ 12\ punts\ que\ es\ va\ perdent\ \r\n\ a\ mesura\ que\ es\ cometeixen\ infraccions.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=n
+comment1.target=CarnetDeConduir(java.lang.String)
+comment1.text=\ Crea\ un\ CarnetDeConduir\ a\ nom\ de\ n\ amb\ un\ nombre\r\n\ \ de\ punts\ per\ defecte.\r\n\ \ @param\ n\ String\ amb\ el\ nom.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment2.text=\ Torna\ el\ nom\ del\ carnet.\r\n\ \ @return\ String,\ el\ nom.\ \ \r\n
+comment3.params=
+comment3.target=int\ getPunts()
+comment3.text=\ Torna\ els\ punts\ del\ carnet.\r\n\ \ @return\ int,\ els\ punts.\ \ \r\n
+comment4.params=penalitzacio
+comment4.target=void\ llevarPunts(int)
+comment4.text=\ Aplica\ la\ penalitzaci\u00F3\ donada\ al\ carnet.\r\n\ \ @param\ penalitzacio\ int\ amb\ el\ nombre\ de\ punts\ a\ descomptar.\ \ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ Torna\ un\ String\ amb\ la\ informaci\u00F3\ del\ carnet.\r\n\ \ @return\ String.\ \ \r\n
+numComments=6

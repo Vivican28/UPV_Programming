@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RetiradaImmediataCarnet
+comment0.text=\r\n\ Classe\ RetiradaImmediataCarnet\ -\ excepcio\ llan\u00E7ada\ per\ \r\n\ CarnetDeConduir\ quan\ el\ nombre\ de\ punts\ es\ zero\ o\ negatiu.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=RetiradaImmediataCarnet()
+comment1.text=Crea\ una\ excepcio\ RetiradaImmediataCarnet\ sense\ cap\ missatge.
+comment2.params=msg
+comment2.target=RetiradaImmediataCarnet(java.lang.String)
+comment2.text=\ Crea\ una\ excepcio\ RetiradaImmediataCarnet\ amb\ el\ missatge\ especificat.\ \r\n\ \ @param\ msg\ String,\ el\ missatge.\ \ \r\n
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pelicules
+comment0.text=\r\n\ Classe\ Pelicules\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=Pelicules()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=llista\ pelicula
+comment2.target=void\ mostrarRepartiment(Actor[],\ java.lang.String)
+comment2.text=\r\n\ Mostra,\ donat\ un\ llistat\ d'actors\ i\ una\ pel.licula,\r\n\ el\ repartiment\ d'actors\ de\ la\ pel.licula.\r\n\ @param\ llista\ Actor[]\ amb\ una\ llista\ d'actors.\r\n\ @param\ pelicula\ String\ amb\ el\ titol\ d'una\ pel.licula.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

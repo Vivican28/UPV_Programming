@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestCopyViaFTP
+comment0.text=\r\n\ Classe\ TestCopyViaFTP\ -\ permet\ fer\ la\ transferencia\ \r\n\ del\ fitxer\ /tmp/data\ a\ la\ m\u00E0quina\ fileserver.upv.es.\ \r\n\ En\ cas\ d\u2019error,\ l'operaci\u00F3\ s'haur\u00E0\ de\ reintentar\ un\ m\u00E0xim\ \r\n\ de\ 3\ vegades\ i\ indicar\ a\ l'usuari\ el\ n\u00FAmero\ d'intent.\r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=TestCopyViaFTP()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

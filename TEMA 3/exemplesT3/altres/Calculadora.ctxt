@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Classe\ Calculadora\:\ calculadora\ d'enters.\ Les\ operacions\ permeses\ \r\n\ son\ la\ suma,\ la\ diferencia,\ el\ producte\ i\ la\ divisio.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=Calculadora()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

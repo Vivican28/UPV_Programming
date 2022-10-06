@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SumarCua
+comment0.text=\ \r\n\ \ Programa\ que\ crea\ una\ cua\ d'enters\ i\ suma\ les\ seues\ dades.\r\n\ \ \r\n\ \ @author\ PRG\r\n\ \ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=SumarCua()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=q
+comment3.target=int\ sumar(linear.QueueIntLinked)
+comment3.text=\r\n\ VERSI\u00D3\ 1\:\ usant\ una\ cua\ auxiliar.\r\n
+comment4.params=q
+comment4.target=int\ sumar2(linear.QueueIntLinked)
+comment4.text=\r\n\ VERSI\u00D3\ 2\:\ No\ \u00E9s\ prec\u00EDs\ usar\ una\ cua\ auxiliar.\ Si\ la\ cua\ t\u00E9\ n\ elements,\ \r\n\ nom\u00E9s\ cal\ desencuar\ n\ vegades\ l'element\ en\ cap\ i\ tornar-lo\ a\ encuar.\r\n
+numComments=5

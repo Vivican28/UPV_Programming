@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=UtilsAgenda
+comment0.text=\r\n\ Classe\ UtilsAgenda\:\ classe\ d'utilitats\ de\ l'Agenda.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=UtilsAgenda()
+comment2.params=n
+comment2.target=boolean\ esNomValid(java.lang.String)
+comment2.text=\ Comprova\ si\ un\ nom\ donat\ te\ una\ \r\nlongitud\ en\ l'interval\ [1...40].
+comment3.params=t
+comment3.target=boolean\ esTelefonValid(java.lang.String)
+comment3.text=\ Comprova\ si\ un\ telefon\ donat\ te\ 9\ caracters\ de\ \r\nl'interval\ ['0'..'9']\ sent\ el\ primer\ d'ells\ distint\ de\ zero.
+comment4.params=a\ teclat
+comment4.target=java.lang.String\ llegirNomValid(Agenda,\ java.util.Scanner)
+comment4.text=Lectura\ validada\ d'un\ nom\ valid\ per\ a\ un\ Contacte\ de\ l'agenda.
+comment5.params=a\ teclat
+comment5.target=java.lang.String\ llegirTelefonValid(Agenda,\ java.util.Scanner)
+comment5.text=Lectura\ validada\ d'un\ telefon\ valid\ per\ a\ un\ Contacte\ de\ l'agenda.
+comment6.params=a\ teclat
+comment6.target=void\ inserirContacte(Agenda,\ java.util.Scanner)
+comment6.text=\r\n\ Metode\ que\ afegeix\ un\ nou\ contacte\ a\ l'agenda\ donada.\r\n\ @param\ a\ Agenda\ on\ s'afegeix\ un\ nou\ contacte.\r\n\ @param\ teclat\ Scanner\ per\ fer\ la\ lectura\ de\ dades.\r\n
+comment7.params=a\ teclat
+comment7.target=void\ recuperarContacte(Agenda,\ java.util.Scanner)
+comment7.text=\r\n\ Metode\ que\ recupera\ la\ informacio\ associada\ a\ un\ nom\ d'un\ contacte\ de\ \r\n\ l'agenda\ donada.\r\n\ @param\ a\ Agenda\ d'on\ es\ recupera\ un\ telefon.\r\n\ @param\ teclat\ Scanner\ per\ fer\ la\ lectura\ de\ dades.\r\n
+numComments=8

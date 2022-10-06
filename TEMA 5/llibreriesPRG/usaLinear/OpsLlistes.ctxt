@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OpsLlistes
+comment0.text=\r\n\ Classe\ OpsLlistes\:\ classe\ d'utilitats\ amb\ m\u00E8todes\ que\ usen\ ListPIIntLinked.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=OpsLlistes()
+comment2.params=l1\ l2
+comment2.target=linear.ListPIIntLinked\ intersectSort(linear.ListPIIntLinked,\ linear.ListPIIntLinked)
+comment2.text=\ Torna\ una\ nova\ llista\ amb\ els\ elements\ de\ la\ intersecci\u00F3\ de\ l1\ i\ l2.\ \r\n\ \ Precondici\u00F3\:\ l1\ i\ l2\ han\ d\u2019estar\ ordenades\ ascendentment.\r\n\ \ @param\ l1\ ListPIIntLinked.\r\n\ \ @param\ l2\ ListPIIntLinked.\r\n\ \ @return\ ListPIIntLinked,\ llista\ amb\ punt\ d'inter\u00E9s\ intersecci\u00F3\ de\ l1\ i\ l2.\r\n
+comment3.params=l1\ l2
+comment3.target=linear.ListPIIntLinked\ intersection(linear.ListPIIntLinked,\ linear.ListPIIntLinked)
+comment3.text=\ Torna\ una\ nova\ llista\ amb\ els\ elements\ de\ la\ intersecci\u00F3\ de\ l1\ i\ l2.\ \r\n\ \ @param\ l1\ ListPIIntLinked.\r\n\ \ @param\ l2\ ListPIIntLinked.\r\n\ \ @return\ ListPIIntLinked,\ llista\ amb\ punt\ d'inter\u00E9s\ intersecci\u00F3\ de\ l1\ i\ l2.\r\n
+comment4.params=l1\ l2
+comment4.target=void\ dif(linear.ListPIIntLinked,\ linear.ListPIIntLinked)
+comment4.text=\ Elimina\ de\ l1\ els\ elements\ que\ apareixen\ en\ l2.\r\n\ \ Precondici\u00F3\:\ l2\ ha\ d\u2019estar\ ordenada\ ascendentment.\r\n\ \ @param\ l1\ ListPIIntLinked.\r\n\ \ @param\ l2\ ListPIIntLinked.\r\n
+comment5.params=l1\ l2
+comment5.target=linear.ListPIIntLinked\ merge(linear.ListPIIntLinked,\ linear.ListPIIntLinked)
+comment5.text=\ Torna\ la\ mescla\ natural\ de\ l1\ i\ l2.\r\n\ \ Precondici\u00F3\:\ l1\ i\ l2\ han\ d\u2019estar\ ordenades\ ascendentment.\r\n\ \ @param\ l1\ ListPIIntLinked.\r\n\ \ @param\ l2\ ListPIIntLinked.\r\n\ \ @return\ ListPIIntLinked,\ llista\ amb\ punt\ d'inter\u00E9s\ mescla\ de\ l1\ i\ l2.\r\n
+comment6.params=l1\ l2
+comment6.target=boolean\ immersa(linear.ListPIIntLinked,\ linear.ListPIIntLinked)
+comment6.text=\ Comprova\ si\ els\ elements\ de\ l1\ apareixen\ en\ l2\ en\ el\ mateix\ ordre,\r\n\ \ encara\ que\ no\ necess\u00E0riament\ consecutius.\ \u00C9s\ a\ dir,\ si\ l1\ est\u00E0\ immersa\ en\ l2.\r\n\ \ @param\ l1\ ListPIIntLinked.\r\n\ \ @param\ l2\ ListPIIntLinked.\r\n\ \ @return\ boolean,\ true\ si\ l1\ est\u00E0\ immersa\ en\ l2\ o,\ en\ cas\ contrari,\ false.\r\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ExcepcioNumeroNegatiu
+comment0.text=\r\n\ Classe\ ExcepcioNumeroNegatiu\ -\ llan\u00E7ada\ des\ de\ LecturaEnterPositiu3\r\n\ quan\ el\ token\ llegit\ no\ es\ un\ enter\ >\=\ 0.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=ExcepcioNumeroNegatiu()
+comment1.text=Crea\ una\ excepcio\ ExcepcioNumeroNegatiu\ sense\ cap\ missatge.
+comment2.params=msg
+comment2.target=ExcepcioNumeroNegatiu(java.lang.String)
+comment2.text=\ Crea\ una\ excepcio\ ExcepcioNumeroNegatiu\ amb\ el\ missatge\ especificat.\ \r\n\ \ @param\ msg\ String,\ el\ missatge.\ \ \r\n
+numComments=3

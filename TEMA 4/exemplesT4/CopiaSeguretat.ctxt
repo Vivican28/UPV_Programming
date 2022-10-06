@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CopiaSeguretat
+comment0.text=\r\n\ Classe\ CopiaSeguretat.\ Crea\ una\ c\u00F2pia\ de\ seguretat\ d'un\ fitxer\ i\ \r\n\ la\ deixa\ de\ nom\u00E9s\ lectura;\ si\ la\ c\u00F2pia\ no\ es\ pot\ crear,\ el\ programa\ \r\n\ acaba\ sense\ fer\ res\ m\u00E9s.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=CopiaSeguretat()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=s\ p
+comment3.target=void\ copia(java.util.Scanner,\ java.io.PrintWriter)
+comment3.text=M\u00E8tode\ auxiliar\ que\ escriu\ les\ linies\ de\ s\ en\ p
+numComments=4

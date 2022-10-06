@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GestorAgenda
+comment0.text=\r\n\ Classe\ GestorAgenda\:\ llanca\ l'aplicacio\ de\ simulacio\ d'una\ agenda\ telefonica,\r\n\ presentant\ a\ l'usuari\ en\ mode\ text\ una\ interficie\ basica\ amb\ la\ qual\ aquest\ \r\n\ pot\ manipular\ la\ seua\ agenda.\ Per\ aixo,\ el\ seu\ unic\ metode\ public\ es\ el\ main\ \r\n\ i\ en\ ell\ es\ descriuen\ via\ menu\ les\ opcions\ de\ treball\ que\ permet\ l'aplicacio.\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=GestorAgenda()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\ \r\n\ \ Programa\ principal.\r\n\ \ @param\ args\ String[]\ \r\n
+comment3.params=teclat
+comment3.target=int\ menu(java.util.Scanner)
+comment3.text=\ \r\n\ \ Presenta\ un\ menu\ d'opcions\ per\ pantalla.\r\n\ \ @param\ teclat\ Scanner\ per\ fer\ la\ lectura\ de\ l'opcio\ \r\n\ \ triada\ des\ de\ teclat.\ \ \r\n\ \ @return\ int,\ torna\ l'opcio\ valida\ triada\ per\ l'usuari\ \r\n\ \ d'entre\ les\ opcions\ possibles.\r\n
+numComments=4

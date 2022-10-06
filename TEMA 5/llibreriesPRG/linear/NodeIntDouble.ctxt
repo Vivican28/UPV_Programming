@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NodeIntDouble
+comment0.text=\r\n\ Classe\ NodeIntDouble\:\ Representaci\u00F3\ d'una\ estructura\ que\ associa\ \r\n\ una\ dada\ (de\ tipus\ int),\ l'enlla\u00E7\ a\ la\ dada\ anterior\ i\ l'enlla\u00E7\ \r\n\ a\ la\ dada\ seg\u00FCent.\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=d
+comment1.target=NodeIntDouble(int)
+comment1.text=\ Crea\ un\ nou\ node\ amb\ una\ dada\ d\ i\ que\ no\ t\u00E9\r\n\ \ ni\ anterior\ ni\ seg\u00FCent.\r\n\ \ @param\ d\ int\ que\ representa\ la\ dada\ del\ nou\ node.\r\n
+comment2.params=d\ s\ a
+comment2.target=NodeIntDouble(int,\ NodeIntDouble,\ NodeIntDouble)
+comment2.text=\ Crea\ un\ nou\ node\ amb\ una\ dada\ d,\ enlla\u00E7at\ a\r\n\ \ dos\ nodes\ preexistents.\r\n\ \ @param\ d\ int\ que\ representa\ la\ dada\ del\ nou\ node.\r\n\ \ @param\ s\ NodeDobleInt\ que\ ser\u00E0\ el\ seg\u00FCent\ del\ nou\ node.\r\n\ \ @param\ a\ NodeDobleInt\ que\ ser\u00E0\ l'anterior\ del\ nou\ node.\r\n
+numComments=3

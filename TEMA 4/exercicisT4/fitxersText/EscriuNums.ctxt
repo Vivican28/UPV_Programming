@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EscriuNums
+comment0.text=\r\n\ Escriu\ en\ un\ fitxer\ de\ text\ (test1.txt)\ els\ numeros\ de\ l'1\ al\ 999.\ \ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=EscriuNums()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

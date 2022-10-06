@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pregunta1
+comment0.text=\r\n\ Clase\ Pregunta1.\ \r\n\ @author\ PRG\ -\ Parcial\ 1\r\n\ @version\ 19/06/20\r\n
+comment1.params=
+comment1.target=Pregunta1()
+comment2.params=a\ ini\ fi
+comment2.target=void\ preg1(char[],\ int,\ int)
+comment2.text=\ Escribe\ en\ la\ salida\ estandar\ las\ parejas\ de\r\n\ \ un\ array\ a\ de\ char\ desde\ fuera\ hacia\ el\ centro.\r\n\ \ Precondicion\:\ 0\ <\=\ ini,\ fi\ <\ a.length\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

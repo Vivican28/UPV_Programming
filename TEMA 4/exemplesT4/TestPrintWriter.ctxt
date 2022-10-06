@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestPrintWriter
+comment0.text=\r\n\ Classe\ TestPrintWriter.\ Exemple\ de\ programa\ que\ usa\ PrintWriter\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=TestPrintWriter()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

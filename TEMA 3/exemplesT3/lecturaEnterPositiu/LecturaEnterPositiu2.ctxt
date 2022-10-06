@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LecturaEnterPositiu2
+comment0.text=\r\n\ Classe\ LecturaEnterPositiu2\:\ permet\ la\ lectura\ des\ de\ teclat\r\n\ d'un\ enter\ positiu\ propagant\ l'excepcio\ InputMismatchException\ \r\n\ al\ metode\ de\ lectura\ i\ capturant-la\ al\ main.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=LecturaEnterPositiu2()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=t
+comment2.target=int\ llegirEnterPositiu(java.util.Scanner)
+comment2.text=\r\n\ Lectura\ d'un\ enter\ >\=\ 0\ des\ de\ teclat.\r\n\ @param\ t\ Scanner\ amb\ el\ que\ es\ fa\ la\ lectura.\r\n\ @return\ int,\ enter\ llegit.\r\n\ @throws\ InputMismatchException\ -\ si\ el\ token\ llegit\ no\ es\ un\ Integer\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ o\ esta\ fora\ de\ rang.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

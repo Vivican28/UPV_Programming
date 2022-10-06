@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ProblemesExamStack
+comment0.text=\r\n\ Classe\ ProblemesExamStack;\ m\u00E8todes\ d'ex\u00E0mens\ de\ cursos\ anteriors\ que\ \r\n\ fan\ \u00FAs\ dels\ m\u00E8todes\ de\ la\ classe\ StackIntLinked.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=ProblemesExamStack()
+comment2.params=p\ x
+comment2.target=int\ numAparicionsEnPila(StackIntLinked,\ int)
+comment2.text=Versi\u00F3\ recursiva
+comment3.params=p\ x
+comment3.target=int\ numAparicionsEnPila1(StackIntLinked,\ int)
+comment3.text=Versi\u00F3\ iterativa,\ usant\ un\ array\ auxiliar
+comment4.params=p\ x
+comment4.target=int\ numAparicionsEnPila2(StackIntLinked,\ int)
+comment4.text=Versi\u00F3\ iterativa,\ usant\ una\ pila\ auxiliar
+comment5.params=p\ x
+comment5.target=void\ eliminarMenorsQue(StackIntLinked,\ int)
+comment5.text=\ RecP2\ -\ Curs\ 12/13\:\ m\u00E8tode\ recursiu\ que\ elimina\ de\ p\ els\ elements\ \r\n\ \ menors\ que\ e.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=RecP2\ -\ Curs\ 11/12\:\ qu\u00E8\ mostra\ per\ pantalla\ el\ seg\u00FCent\ programa?
+numComments=7

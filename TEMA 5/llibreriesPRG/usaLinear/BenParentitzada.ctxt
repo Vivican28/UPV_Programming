@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BenParentitzada
+comment0.text=\r\n\ Classe\ BenParentitzada\:\ \u00DAs\ dels\ tipus\ lineals.\r\n\ \r\n\ \ @author\ PRG\r\n\ \ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=BenParentitzada()
+comment2.params=s
+comment2.target=boolean\ expressioBenParent(java.lang.String)
+comment2.text=\ Comprova\ si\ els\ car\u00E0cters\ de\ s\ formen\ una\ expressi\u00F3\r\n\ \ ben\ parentitzada\ de\ '[',\ ']',\ '(',\ ')'.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

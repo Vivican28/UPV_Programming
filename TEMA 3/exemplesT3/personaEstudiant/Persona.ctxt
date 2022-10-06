@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Classe\ Persona\:\ classe\ tipus\ de\ dades\ per\ representar\ una\ persona\r\n\ amb\ el\ seu\ nom\ i\ el\ seu\ dni.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=n\ d
+comment1.target=Persona(java.lang.String,\ int)
+comment1.text=\ Crea\ un\ objecte\ Persona\ amb\ nom\ i\ dni\ donats.\ \ \ \ \ \r\n\ \ @param\ n\ String\ que\ representa\ el\ nom.\ \ \r\n\ \ @param\ d\ int\ que\ representa\ el\ dni.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment2.text=\ Torna\ el\ nom\ de\ la\ Persona.\ \r\n\ \ @return\ String,\ nom\ de\ la\ persona.\r\n
+comment3.params=
+comment3.target=int\ getDni()
+comment3.text=\ Torna\ el\ dni\ de\ la\ Persona.\r\n\ \ @return\ int,\ dni\ de\ la\ persona.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ Torna\ un\ String\ amb\ les\ dades\ de\ la\ Persona.\r\n\ \ @return\ String,\ amb\ el\ nom\ i\ el\ dni.\r\n
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Comprova\ si\ dues\ Persones\ s\u00F3n\ iguals\ (si\ tenen\ el\ mateix\ dni).\r\n\ @param\ o\ Object\ a\ comparar\ amb\ la\ Persona\ actual.\r\n\ @return\ boolean.\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Estudiant
+comment0.text=\r\n\ Classe\ Estudiant\:\ classe\ tipus\ de\ dades\ per\ representar\ un\ estudiant\r\n\ amb\ el\ seu\ nom,\ el\ seu\ dni\ i\ els\ credits\ dels\ que\ esta\ matriculat.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=nom\ dni
+comment1.target=Estudiant(java.lang.String,\ int)
+comment1.text=\r\n\ Crea\ un\ objecte\ Estudiant\ amb\ nom\ i\ dni\ donats\ \r\n\ i\ matriculat\ de\ 60\ cr\u00E8dits.\r\n\ @param\ nom\ String\ que\ representa\ el\ nom\ de\ l'estudiant.\r\n\ @param\ dni\ int\ que\ representa\ el\ dni\ de\ l'estudiant.\r\n
+comment2.params=
+comment2.target=int\ getCredits()
+comment2.text=\r\n\ Torna\ el\ nombre\ de\ cr\u00E8dits\ dels\ que\ l'estudiant\ est\u00E0\ matriculat.\r\n\ @return\ int,\ cr\u00E8dits.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ de\ l'estudiant.\r\n\ @return\ String,\ amb\ el\ nom,\ el\ dni\ i\ els\ cr\u00E8dits.\r\n
+numComments=4

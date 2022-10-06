@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=P2Curs1112
+comment0.text=\r\n\ Classe\ P2Curs1112\:\ exercici\ sobre\ excepcions\ del\ parcial\ 2\ del\ curs\ 2011/12.\r\n\ El\ m\u00E8tode\ llegirInt\ demana\ a\ l'usuari\ un\ valor\ enter,\ que\ \u00E9s\ llegit\ com\ una\ String,\ val,\ \r\n\ que\ despr\u00E9s\ \u00E9s\ transformada,\ mitjan\u00E7ant\ l'operaci\u00F3\ Integer.parseInt(val)\ en\ el\ valor\ \r\n\ enter\ que\ aquesta\ cont\u00E9.\r\n\ El\ problema\ \u00E9s\ que\ si\ el\ que\ cont\u00E9\ la\ String\ no\ \u00E9s\ un\ enter\ correctament\ escrit\ (per\ exemple\ \r\n\ perque\ continga\ alguna\ lletra)\ es\ produir\u00E0\ una\ excepci\u00F3o\ NumberFormatException,\ detenint-se\ \r\n\ a\ continuaci\u00F3\ el\ proc\u00E9s\ de\ lectura.\r\n\ \r\n\ Es\ demana\:\ modificar\ el\ m\u00E8tode\ llegirInt()\ per\ tal\ que,\ cas\ de\ produir-se\ una\ excepci\u00F3\r\n\ NumberFormatException\ durant\ la\ transformaci\u00F3\ de\ la\ String\ a\ int,\ torne\ a\ demanar\ les\ vegades\ \r\n\ que\ calga\ el\ valor\ fins\ que\ aquest\ siga\ un\ nombre\ correcte.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=P2Curs1112()
+comment2.params=
+comment2.target=int\ llegirInt()
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Classe\ Rectangle\ -\ Descripcio\ d'un\ rectangle\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=c\ b\ a
+comment1.target=Rectangle(java.lang.String,\ double,\ double)
+comment1.text=\r\n\ Crea\ un\ nou\ Rectangle\ donats\ el\ seu\ color,\ la\ seua\ base\ i\ la\ seua\ altura.\r\n\ @param\ c\ String\ que\ representa\ el\ color.\r\n\ @param\ b\ double\ que\ representa\ la\ base.\r\n\ @param\ a\ double\ que\ representa\ l'altura.\r\n
+comment2.params=b\ a
+comment2.target=Rectangle(double,\ double)
+comment2.text=\r\n\ Crea\ un\ nou\ Rectangle\ amb\ el\ color\ per\ defecte,\ \r\n\ donades\ la\ seua\ base\ i\ la\ seua\ altura.\r\n\ @param\ b\ double\ que\ representa\ la\ base.\r\n\ @param\ a\ double\ que\ representa\ l'altura.\r\n
+comment3.params=
+comment3.target=double\ getBase()
+comment3.text=\r\n\ Torna\ la\ base\ del\ Rectangle\ actual.\r\n\ @return\ double,\ la\ base.\r\n
+comment4.params=
+comment4.target=double\ getAltura()
+comment4.text=\r\n\ Torna\ l'altura\ del\ Rectangle\ actual.\r\n\ @return\ double,\ l'altura.\r\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\r\n\ Torna\ l'area\ del\ Rectangle\ actual.\r\n\ @return\ double,\ l'area.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ del\ Rectangle\ actual.\r\n\ @return\ String.\r\n
+numComments=7

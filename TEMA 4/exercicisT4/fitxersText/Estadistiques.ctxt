@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Estadistiques
+comment0.text=\r\n\ Obte\ estadistiques\ basiques\ sobre\ un\ fitxer\ de\ text\ \r\n\ rebut\ pel\ main\ com\ argument.\r\n\ \ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=Estadistiques()
+comment2.params=s
+comment2.target=void\ estadistiques(java.util.Scanner)
+comment2.text=\r\n\ Mostra\ per\ pantalla\ les\ estadistiques\ basiques\ \r\n\ d'un\ fitxer\ de\ text\ donat.\r\n\ @param\ s\ Scanner\ que\ representa\ el\ fitxer\ d'on\ llegir.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

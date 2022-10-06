@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiaSetmana
+comment0.text=\ \r\n\ \ Classe\ DiaSetmana\:\ mostra\ per\ pantalla\ una\ data\ donada\ com\ una\ String\ \r\n\ \ dd/mm/yyyy,\ incloent\ el\ dia\ de\ la\ setmana.\r\n\ \ Per\ exemple,\ si\ la\ String\ es\ 28/02/2019,\ es\ mostra\:\r\n\ \ dijous,\ 28\ de\ febrer\ 2019\r\n\ \ \r\n\ \ @author\ PRG\ \r\n\ \ @version\ Curs\ 2019/20\ \r\n
+comment1.params=
+comment1.target=DiaSetmana()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

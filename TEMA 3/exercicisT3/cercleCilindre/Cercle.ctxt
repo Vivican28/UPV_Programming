@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cercle
+comment0.text=\r\n\ Classe\ Cercle\ -\ Descripcio\ d'un\ cercle\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=r\ c
+comment1.target=Cercle(double,\ java.lang.String)
+comment1.text=\r\n\ Crea\ un\ nou\ Cercle\ donats\ el\ seu\ color\ i\ el\ seu\ radi.\r\n\ @param\ r\ double\ que\ representa\ el\ radi.\r\n\ @param\ c\ String\ que\ representa\ el\ color.\r\n
+comment2.params=r
+comment2.target=Cercle(double)
+comment2.text=\r\n\ Crea\ un\ nou\ Cercle\ amb\ el\ color\ per\ defecte,\ donat\ el\ seu\ radi.\r\n\ @param\ r\ double\ que\ representa\ el\ radi.\r\n
+comment3.params=
+comment3.target=double\ getRadi()
+comment3.text=\r\n\ Torna\ el\ radi\ del\ Cercle\ actual.\r\n\ @return\ double,\ el\ radi.\r\n
+comment4.params=r
+comment4.target=void\ setRadi(double)
+comment4.text=\r\n\ Actualitza\ el\ radi\ del\ Cercle\ actual.\r\n\ @param\ r\ double\ que\ representa\ el\ nou\ radi.\r\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\r\n\ Torna\ l'area\ del\ Cercle\ actual.\r\n\ @return\ double,\ l'area.\r\n
+comment6.params=
+comment6.target=double\ getPerimetre()
+comment6.text=\r\n\ Torna\ el\ perimetre\ del\ Cercle\ actual.\r\n\ @return\ double,\ el\ perimetre.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ del\ Cercle\ actual.\r\n\ @return\ String.\r\n
+numComments=8

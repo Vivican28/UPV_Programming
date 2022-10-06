@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LecturaEnterPositiuSenseExcepcions
+comment0.text=\r\n\ Classe\ LecturaEnterPositiuSenseExcepcions\:\ permet\ la\ lectura\ des\ de\ teclat\r\n\ d'un\ enter\ positiu\ sense\ fer\ cap\ gestio\ de\ les\ exepcions\ que\ poden\ ocorrer.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=LecturaEnterPositiuSenseExcepcions()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=t
+comment2.target=int\ llegirEnterPositiu(java.util.Scanner)
+comment2.text=\r\n\ Llig\ des\ d'un\ Scanner\ i\ torna\ un\ valor\ enter\ >\=\ 0.\r\n\ @param\ t\ Scanner\ per\ a\ lectura\ des\ de\ teclat.\r\n\ @return\ int,\ enter\ llegit\ >\=\ 0.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CorregirChars
+comment0.text=\r\n\ Programa\ per\ a\ veure\ exemples\ d'intercanvi\ de\ \u00F1\ per\ ny\ \r\n\ i\ viceversa\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=CorregirChars()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=l
+comment3.target=java.lang.String\ toStringChar(linear.ListPIIntLinked)
+comment3.text=\ Torna\ el\ String\ que\ resulta\ d'interpretar\ els\ int\ de\ \r\n\ \ la\ llista\ amb\ PI\ l\ com\ car\u00E0cters\ \r\n
+comment4.params=l
+comment4.target=void\ corregirCV(linear.ListPIIntLinked)
+comment4.text=\ Substitueix\ en\ la\ llista\ l\ totes\ les\ aparicions\ del\r\n\ \ int\ corresponent\ al\ char\ \u00F1\ per\ la\ parella\ ny\ \r\n
+comment5.params=l
+comment5.target=void\ corregirVC(linear.ListPIIntLinked)
+comment5.text=\ Substitueix\ en\ la\ llista\ l\ totes\ les\ aparicions\ de\ la\r\n\ \ parella\ ny\ per\ \u00F1\r\n
+numComments=6

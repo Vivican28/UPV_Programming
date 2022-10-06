@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Elimina
+comment0.text=\r\n\ El\ main\ rep\ com\ arguments\ la\ ruta\ a\ un\ fitxer\ de\ text\ i\ una\ paraula.\ \r\n\ I\ elimina\ totes\ les\ ocurrencies\ de\ la\ paraula\ al\ fitxer\ de\ text\ donat,\r\n\ escrivint\ en\ un\ altre\ fitxer.\r\n\ Si\ el\ nom\ del\ fitxer\ donat\ es\ "nomFitx.txt",\ el\ nom\ del\ fitxer\ resultat\ \r\n\ sera\ "nomFitx_2.txt"\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=Elimina()
+comment2.params=s\ w\ pw
+comment2.target=void\ elimina(java.util.Scanner,\ java.lang.String,\ java.io.PrintWriter)
+comment2.text=\r\n\ Elimina\ les\ ocurrencies\ d'una\ paraula\ en\ un\ fitxer\ \r\n\ de\ text\ donat,\ escrivint\ en\ un\ altre\ fitxer\ de\ text.\r\n\ @param\ s\ Scanner\ que\ representa\ el\ fitxer\ d'on\ llegir.\r\n\ @param\ w\ String\ que\ representa\ la\ paraula\ a\ eliminar.\r\n\ @param\ pw\ PrintWriter\ que\ representa\ el\ fitxer\ on\ escriure.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

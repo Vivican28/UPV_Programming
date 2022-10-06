@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AutoAvaluacioT1
+comment0.text=\r\n\ Classe\ AutoAvaluacioT1\:\ m\u00E8todes\ recursius\ num\u00E8rics,\ \r\n\ amb\ arrays\ i\ amb\ Strings.\r\n\ \r\n\ @author\ (ESCRIU\ ACI\ Cognoms\ i\ nom\ del/s\ autor/s)\ \r\n\ @version\ Tema\ 1\ -\ Sessio\ 6\r\n
+comment1.params=
+comment1.target=AutoAvaluacioT1()
+comment2.params=m
+comment2.target=java.lang.String\ sequencia(int)
+comment2.text=\ Torna\ una\ String\ amb\ la\ seq\u00FC\u00E8ncia\ 1\ 2\ ...\ m-1\ m\ ,\ \r\n\ \ acabada\ per\ un\ car\u00E0cter\ de\ canvi\ de\ l\u00EDnia.\r\n\ \ Precondici\u00F3\:\ m\ >\ 0.\r\n
+comment3.params=n
+comment3.target=java.lang.String\ trgSuperior(int)
+comment3.text=\ Torna\ una\ String\ de\ n\ l\u00EDnies\ amb\ seq\u00FC\u00E8ncies\ decreixents,\r\n\ \ formant\ un\ triangle.\r\n\ \ Precondicio\:\ n\ >\ 0.\r\n
+comment4.params=n
+comment4.target=java.lang.String\ trgInferior(int)
+comment4.text=\ Torna\ una\ String\ de\ n\ l\u00EDnies\ amb\ seq\u00FC\u00E8ncies\ creixents,\r\n\ \ formant\ un\ triangle.\r\n\ \ Precondici\u00F3\:\ n\ >\ 0.\r\n
+comment5.params=a\ x\ i
+comment5.target=double\ polinomi(double[],\ double,\ int)
+comment5.text=COMPLETAR\ -\ metode\ privat\ recursiu
+comment6.params=a\ b
+comment6.target=boolean\ simetriques(java.lang.String,\ java.lang.String)
+comment6.text=\ Determina\ si\ a\ i\ b\ s\u00F3n\ sim\u00E8triques.\r\n\ \ Precondici\u00F3\:\ --\ COMPLETAR\ --\r\n
+numComments=7

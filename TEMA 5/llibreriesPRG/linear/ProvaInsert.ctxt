@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ProvaInsert
+comment0.text=\r\n\ Classe\ ProvaInsert\:\ classe\ programa\ que\ prova\ el\ m\u00E8tode\ insert.\r\n\ -\ m\u00E8tode\ est\u00E0tic\ de\ la\ classe\ UtilLinked\ amb\ una\ seq\u00FCencia\ seq\ com\ a\ par\u00E0metre\ \r\n\ \ \ -->\ en\ execuci\u00F3\ seq\ est\u00E0\ en\ la\ pila\ del\ registre\ d'activaci\u00F3\ de\ la\ crida\ al\ m\u00E8tode\r\n\ -\ m\u00E8tode\ din\u00E0mic\ de\ la\ classe\ SeqIntLinked\ que\ t\u00E9\ com\ atribut\ una\ seq\u00FC\u00E8ncia\ seq\r\n\ \ \ -->\ en\ execuci\u00F3\ seq\ est\u00E0\ en\ el\ heap,\ \u00E9s\ un\ atribut\ de\ l'objecte\ al\ que\ s'aplica\ \r\n\ \ \ el\ m\u00E8tode\r\n\ \ \ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=ProvaInsert()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

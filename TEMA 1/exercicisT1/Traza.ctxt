@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Traza
+comment0.text=\r\n\ Traza\:\ exemples\ de\ traces.\r\n\ Exercicis\ 14\ i\ 15\ -\ Capitol\ 10\ del\ llibre\ de\ l'assignatura.\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=Traza()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=v\ i\ x
+comment3.target=int\ sumav(int[],\ int,\ int)
+comment4.params=v\ i
+comment4.target=void\ f(int[],\ int)
+numComments=5

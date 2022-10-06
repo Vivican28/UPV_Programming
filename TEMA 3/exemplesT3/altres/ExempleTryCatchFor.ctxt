@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExempleTryCatchFor
+comment0.text=\r\n\ Classe\ ExempleTryCatchFor\:\ exemple\ d'us\ d'un\ bloc\ try-catch\ dins\ \r\n\ i\ fora\ d'una\ instruccio\ for.\r\n\ Les\ dades\ s'han\ de\ passar\ com\ arguments\ al\ metode\ main.\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=ExempleTryCatchFor()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

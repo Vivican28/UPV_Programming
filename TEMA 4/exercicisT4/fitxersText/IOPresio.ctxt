@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IOPresio
+comment0.text=\r\n\ Classe\ IOPresio\:\ classe\ d'utilitats\ amb\ metodes\ que\ permeten\ llegir/escriure\ \r\n\ des\ de/en\ fitxer\ de\ text\ els\ valors\ de\ presio\ (de\ tipus\ double)\ \r\n\ emmagatzemats\ en\ una\ matriu.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=IOPresio()
+comment2.params=presions\ nomFitx
+comment2.target=void\ escriuPresions(double[][],\ java.lang.String)
+comment2.text=\r\n\ Escriu\ en\ un\ fitxer\ de\ text\ nomFitx\ els\ valors\ de\ tipus\ double\r\n\ emmagatzemats\ en\ una\ matriu\ presions.\ \r\n\ Cada\ fila\ de\ la\ matriu\ s'escriu\ en\ una\ linea\ del\ fitxer\ i\ \r\n\ els\ valors\ de\ cada\ fila\ s'escriuen\ separats\ per\ espais\ en\ blanc.\r\n\ @param\ presions\ double[][].\r\n\ @param\ nomFitx\ String.\r\n
+comment3.params=nomFitx\ n
+comment3.target=double[][]\ lligPresions(java.lang.String,\ int)
+comment3.text=\r\n\ Llig\ des\ d'un\ fitxer\ de\ text\ nomFitx\ valors\ de\ tipus\ double\ \r\n\ (amb\ el\ "."\ com\ separador\ decimal)\ que\ va\ emmagatzemant\ en\ una\ \r\n\ matriu\ resultat\ de\ dimensions\ n\ x\ n.\r\n\ @param\ nomFitx\ String\ amb\ el\ nom\ del\ fitxer.\r\n\ @param\ n\ int\ dimensio\ de\ la\ matriu.\r\n\ @return\ double[][].\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

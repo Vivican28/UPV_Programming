@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=LecturaFigures
+comment0.text=\r\n\ Classe\ LecturaFigures\ -\ Classe\ d'utilitats\ amb\ metodes\ \r\n\ que\ permeten\ llegir\ des\ de\ l'entrada\ estandard\ les\ \r\n\ caracteristiques\ de\ distintes\ figures\ geometriques.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=LecturaFigures()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=teclat
+comment2.target=Figura\ llegirFigura(java.util.Scanner)
+comment2.text=\r\n\ Llig\ una\ Figura\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ Figura.\r\n
+comment3.params=teclat
+comment3.target=int\ llegirIntValid(java.util.Scanner)
+comment3.text=\r\n\ Llig\ un\ enter\ v\u00E0lid\ (>\=0\ i\ <\=3)\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ int,\ enter\ llegit.\r\n
+comment4.params=teclat
+comment4.target=java.lang.String\ llegirColorValid(java.util.Scanner)
+comment4.text=\r\n\ Llig\ un\ color\ v\u00E0lid\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ String,\ cadena\ de\ caracters\ llegida.\r\n
+comment5.params=color
+comment5.target=boolean\ validarColor(java.lang.String)
+comment5.text=\r\n\ Comprova\ que\ el\ color\ \u00E9s\ v\u00E0lid\ \r\n\ (que\ pertany\ al\ conjunt\ de\ colors\ v\u00E0lids).\r\n\ @param\ color\ String\ que\ representa\ un\ color.\r\n\ @return\ boolean,\ true\ si\ \u00E9s\ un\ color\ v\u00E0lid\ i\ \r\n\ \ \ \ \ \ \ \ \ false\ en\ cas\ contrari.\r\n
+comment6.params=teclat
+comment6.target=double\ llegirDoubleValid(java.util.Scanner)
+comment6.text=\r\n\ Llig\ un\ real\ v\u00E0lid\ (>\=0.0)\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ double,\ real\ llegit.\r\n
+comment7.params=teclat
+comment7.target=Cercle\ llegirCercle(java.util.Scanner)
+comment7.text=\ \r\n\ Torna\ un\ Cercle\ a\ partir\ de\ la\ lectura\ dels\ valors\ \r\n\ dels\ seus\ atributs\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ Cercle.\r\n
+comment8.params=teclat
+comment8.target=Rectangle\ llegirRectangle(java.util.Scanner)
+comment8.text=\r\n\ Llegir\ un\ Rectangle\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ Rectangle.\r\n
+comment9.params=teclat
+comment9.target=Quadrat\ llegirQuadrat(java.util.Scanner)
+comment9.text=\r\n\ Torna\ un\ Quadrat\ llegit\ des\ de\ teclat.\r\n\ @param\ teclat\ Scanner\ per\ llegir\ des\ de\ l'entrada\ est\u00E0ndard.\r\n\ @return\ Quadrat.\r\n
+numComments=10

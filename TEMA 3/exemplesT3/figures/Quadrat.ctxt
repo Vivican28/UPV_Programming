@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Quadrat
+comment0.text=\r\n\ Classe\ Quadrat\ -\ Descripcio\ d'un\ quadrat\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=color\ costat
+comment1.target=Quadrat(java.lang.String,\ double)
+comment1.text=\r\n\ Crea\ un\ nou\ Quadrat\ donats\ el\ seu\ color\ i\ el\ seu\ costat.\r\n\ @param\ color\ String\ que\ representa\ el\ color.\r\n\ @param\ costat\ double\ que\ representa\ el\ costat.\ \r\n
+comment2.params=costat
+comment2.target=Quadrat(double)
+comment2.text=\r\n\ Crea\ un\ nou\ Quadrat\ amb\ el\ color\ per\ defecte,\ donat\ el\ seu\ costat.\r\n\ @param\ costat\ double\ que\ representa\ el\ costat.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ del\ Quadrat\ actual.\r\n\ @return\ String.\r\n
+numComments=4

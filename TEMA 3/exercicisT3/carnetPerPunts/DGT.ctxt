@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DGT
+comment0.text=\r\n\ Classe\ DGT\ -\ per\ a\ aplicar\ la\ penalitzacio\ a\ un\ CarnetDeConduir.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=DGT()
+comment1.text=No\ hi\ ha\ objectes\ d'aquesta\ classe.
+comment2.params=c\ tec
+comment2.target=void\ multar(CarnetDeConduir,\ java.util.Scanner)
+comment2.text=\r\n\ Aplica\ la\ penalitzacio\ a\ un\ carnet\ de\ conduir\ donat\ i\ \r\n\ mostra\ per\ pantalla\ un\ missatge\ d'error\ si\ la\ penalitzacio\ \r\n\ de\ punts\ comporta\ la\ retirada\ immediata\ del\ carnet.\r\n\ @param\ c\ CarnetDeConduir\ al\ que\ s'aplica\ la\ penalitzacio.\r\n\ @param\ tec\ Scanner\ per\ a\ llegir\ des\ de\ l'entrada\ estandard.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

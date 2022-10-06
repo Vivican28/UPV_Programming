@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ProblemesExamens
+comment0.text=\r\n\ Classe\ ProblemesExamens\:\ problemes\ d'ex\u00C3\u00A0mens\ del\ Tema\ 4\ de\ cursos\ anteriors.\r\n\r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=ProblemesExamens()
+comment2.params=fileIn\ fileOut
+comment2.target=void\ sumInt(java.lang.String,\ java.lang.String)
+comment2.text=P2\ -\ Curs\ 18/19
+comment3.params=fileIn\ fileOut
+comment3.target=void\ filtraErrors(java.lang.String,\ java.lang.String)
+comment3.text=RecP2\ -\ Curs\ 18/19
+comment4.params=a
+comment4.target=java.io.File\ fromArrayToTextFile(int[])
+comment4.text=P2\ -\ Curs\ 17/18
+comment5.params=ftx
+comment5.target=void\ fitxerNou(java.lang.String)
+comment5.text=P2\ -\ Curs\ 16/17
+comment6.params=nomFitxer
+comment6.target=int\ lligISuma(java.lang.String)
+comment6.text=RecP2\ -\ Curs\ 16/17
+comment7.params=nomF1
+comment7.target=void\ escriuAmbMajuscules(java.lang.String)
+comment7.text=P2\ -\ Curs\ 2013-2014
+comment8.params=nomFitx\ par
+comment8.target=boolean\ EstaEn(java.lang.String,\ java.lang.String)
+comment8.text=RecP2\ -\ Curs\ 2013-2014
+numComments=9

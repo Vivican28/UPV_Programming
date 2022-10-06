@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InvertirOrdre
+comment0.text=\ \r\n\ \ Programa\ que\ llig\ una\ seq\u00FC\u00E8ncia\ d'enters\ i\ els\ mostra\r\n\ \ per\ pantalla\ en\ ordre\ invers\ a\ com\ s'han\ llegit.\r\n\ \ \r\n\ \ @author\ PRG\r\n\ \ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=InvertirOrdre()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

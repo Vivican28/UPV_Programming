@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SaldoEsgotatException
+comment0.text=\r\n\ Classe\ SaldoEsgotatException\ -\ excepcio\ llan\u00E7ada\ per\ \r\n\ BonoMetro\ quan\ al\ picar\ no\ queden\ viatges\ disponibles.\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=SaldoEsgotatException()
+comment1.text=Crea\ una\ excepcio\ SaldoEsgotatException\ sense\ cap\ missatge.
+comment2.params=msg
+comment2.target=SaldoEsgotatException(java.lang.String)
+comment2.text=\ Crea\ una\ excepcio\ SaldoEsgotatException\ amb\ el\ missatge\ especificat.\ \r\n\ \ @param\ msg\ String,\ el\ missatge.\ \ \r\n
+numComments=3

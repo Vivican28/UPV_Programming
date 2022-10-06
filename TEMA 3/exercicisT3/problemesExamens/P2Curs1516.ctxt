@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=P2Curs1516
+comment0.text=\r\n\ Classe\ P2Curs1516\:\ exercici\ sobre\ excepcions\ del\ parcial\ 2\ del\ curs\ 2015/16.\r\n\ Es\ disposa\ d'un\ array\ lS\ d'objectes\ de\ tipus\ String,\ tal\ que\ no\ t\u00E9\ inicialitzats\ \r\n\ tots\ els\ seus\ elements\ (\u00E9s\ a\ dir,\ alguna\ de\ les\ posicions\ de\ l'array\ cont\u00E9\ un\ valor\r\n\ null\ en\ lloc\ d'una\ String\ ben\ formada).\ Si\ s'utilitza\ el\ m\u00E8tode\ m1\ per\ imprimir\ la\ \r\n\ longitud\ de\ totes\ les\ String\ realment\ existents\ de\ lS\ es\ poden\ produir\ les\ excepcions\:\ \r\n\ NullPointerException\ i\ ArrayIndexOutOfBoundsException.\ Quan,\ en\ realitat,\ es\ desitjaria\ \r\n\ una\ sortida\ sense\ excepcions.\ Com,\ per\ exemple,\ amb\ un\ array\ de\ 6\ elements\:\r\n\ Posici\u00F3\ 0\:\ 4\ car\u00E0cters\r\n\ Posici\u00F3\ 1\:\ 9\ car\u00E0cters\r\n\ Posici\u00F3\ 2\:\ String\ no\ inicialitzada\r\n\ Posici\u00F3\ 3\:\ 11\ car\u00E0cters\r\n\ Posici\u00F3\ 4\:\ String\ no\ inicialitzada\r\n\ Posici\u00F3\ 5\:\ 0\ car\u00E0cters\r\n\ Posici\u00F3\ 6\:\ Inexistent.\ Fi\ de\ l'array\r\n\ \r\n\ Es\ demana\:\ reescriure\ el\ m\u00E8tode\ m1\ perqu\u00E9,\ tractant\ exclusivament\ les\ dues\ excepcions\ \r\n\ indicades\ (sense\ fer\ \u00FAs\ de\ l'atribut\ length\ de\ l'array\ ni\ de\ la\ constant\ null),\ resolga\ \r\n\ el\ problema\ demanat\ efectuant\ una\ sortida\ com\ la\ mostrada\ en\ l'exemple.\r\n\ \r\n\ @author\ PRG\r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=
+comment1.target=P2Curs1516()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=lS
+comment3.target=void\ m1(java.lang.String[])
+numComments=4

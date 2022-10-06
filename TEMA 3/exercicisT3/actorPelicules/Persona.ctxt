@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Classe\ Persona\ -\ Descripcio\ d'una\ persona\r\n\ \r\n\ @author\ PRG\ \r\n\ @version\ Curs\ 2019/20\r\n
+comment1.params=n
+comment1.target=Persona(java.lang.String)
+comment1.text=\ Crea\ un\ objecte\ Persona\ amb\ un\ nom\ donat.\ \ \ \ \ \r\n\ \ @param\ n\ String\ que\ representa\ el\ nom.\ \ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
